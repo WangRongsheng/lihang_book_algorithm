@@ -1,6 +1,6 @@
 # lihang_book_algorithm
 
-李航《统计学习方法》练习代码，来自某博主整理~
+李航《统计学习方法》练习代码，来自[某博主](https://me.csdn.net/wds2006sdo)整理~
 
 ## 章节
 
@@ -42,6 +42,6 @@
 
 ## 额外章节
 
-###softmax分类器
+### softmax分类器
 博客：[python 实现 softmax分类器（MNIST数据集）](http://blog.csdn.net/wds2006sdo/article/details/53699778)
 <br>代码：[softmax/softmax.py](https://github.com/WenDesi/lihang_book_algorithm/blob/master/softmax/softmax.py)
